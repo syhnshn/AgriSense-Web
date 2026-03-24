@@ -1,0 +1,1 @@
+# Otonom ve zamanlanmış görevler

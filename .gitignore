@@ -1,0 +1,48 @@
+# ========================
+# Ortam Değişkenleri (GİZLİ)
+# ========================
+.env
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# ========================
+# Sanal Ortam (Virtual Environment)
+# ========================
+venv/
+.venv/
+env/
+.env.local
+
+# ========================
+# IDE / Editör
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ========================
+# İşletim Sistemi
+# ========================
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ========================
+# Test / Coverage
+# ========================
+.pytest_cache/
+.coverage
+htmlcov/
